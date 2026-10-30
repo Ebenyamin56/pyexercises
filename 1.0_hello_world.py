@@ -26,12 +26,12 @@ DELIVERABLE
 
 # 2. Process:" A loop repeats the message five times and numbers each line."
 # 3. Out:"Five numbered lines displayed on the screen."
-# 4. My message, and why:"Never give up "
+# 4. My message, and why:"Elsa "
 
 
-message = "Never give up "
-print ("1.Never give up")
-print ("2.Never give up")
-print ("3.Never give up")
-print ("4.Never give up")
-print ("5.Never give up")
+
+print ("1.Elsa")
+print ("2.Elsa")
+print ("3.Elsa")
+print ("4.Elsa")
+print ("5.Elsa")
